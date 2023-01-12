@@ -1,0 +1,137 @@
+ body{
+    background-color: chartreuse;
+ }
+ 
+ .calc-body{
+    margin-left: 500px;
+        width: 414px;
+        height: 412px;
+        background-color: rgb(0, 0, 0);
+    }
+    #Seven{
+        padding: 0px;
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+    }
+
+    #Eight{
+        padding: 0px;
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+    }
+    #Nine{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+    }
+
+    #mul{
+        width: 100px;
+        height: 70px;
+        color: rgb(255, 4, 4);
+        background-color:yellow
+        
+       
+
+    }
+
+    #Four{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color:yellow
+
+    }
+    #Five{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+
+    }
+    #Six{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+
+    }
+    #sub{
+        width: 100px;
+        height: 70px;
+        color: rgb(255, 0, 0);
+        background-color: yellow
+
+    }
+    #One{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+
+    }
+    #Two{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color:yellow
+
+    }
+    #Three{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color: yellow
+
+    }
+    #add{
+        width: 100px;
+        height:70px;
+        color: rgb(255, 0, 0);
+        background-color:yellow
+
+    }
+    #ac{
+            font-style: unset;
+            width: 100px;
+            height: 70px;
+            color: rgb(255, 2, 2);
+            background-color:yellow
+            
+
+    
+        
+
+    }
+    #Zero{
+        width: 100px;
+        height: 70px;
+        color: rgb(255, 0, 0);
+        background-color:yellow
+    }
+    #div{
+        width: 100px;
+        height: 70px;
+        color: rgb(255, 0, 0);
+        background-color:yellow
+
+    }
+    #equal{
+        width: 100px;
+        height: 70px;
+        color: rgb(255, 0, 0);
+        background-color:yellow
+
+    }
+    #del{
+        width: 100px;
+        height: 70px;
+        color: rgb(0, 0, 0);
+        background-color:yellow
+
+    }
